@@ -1,1 +1,1 @@
-This is empty for now
+Functions for gravitational radiation were largely developed in FrequencyEvolution and FrequencyEvolutionApprox; functions for stellar scattering were developed (in latest form, at least) in StellarScatteringSesana_wAstropy. Most of the graphs used in paper/presentation are also contained in one of those two. utils.py contains the final form of a lot of these functions and can be used to transfer those functions between notebooks.
